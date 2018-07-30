@@ -1,4 +1,4 @@
 # Clicky Game developed with React.js
 
-Deployed link: 
+Deployed link: https://awl-react-clicky-game.herokuapp.com/
 
